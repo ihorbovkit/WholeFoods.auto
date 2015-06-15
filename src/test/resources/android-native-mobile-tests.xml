@@ -1,0 +1,11 @@
+<suite name="Mobile Native app Demo Test Suite 2">
+    <parameter name="osType" value="android"/>	
+    <parameter name="appType" value="native"/>
+     <parameter name="mobileDeviceName" value="emulator-5554"/>
+	<test name="Mobile Test 1">	
+		<classes>
+		    <class name="com.applause.auto.testscenarios.BasicSearchTest"/>
+		</classes>
+		
+	</test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+   <properties> 
+       <entry key="application.package">com.opower.mobile.android</entry>
+       <entry key="application.activity">.MainActivity</entry>
+       <entry key="application.path">D:\Whole_Foods.apk</entry>
+       <entry key="appium.server.url">http://127.0.0.1:4723/wd/hub</entry>
+       <entry key="webView.appearance.timeout">7</entry>
+       <entry key="implicit-timeout">30</entry>
+   </properties>
